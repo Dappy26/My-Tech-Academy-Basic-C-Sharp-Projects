@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techstoreinventory\\techstoreinventory\\techstoreinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16DFEB71-FE01-C155-4FDF-177ED545AD4D}|TechStoreInventory\\TechStoreInventory.csproj|solutionrelative:techstoreinventory\\techstoreinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TechStoreInventory\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TechStoreInventory\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:21:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Program.cs",
+              "RelativeDocumentMoniker": "TechStoreInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Program.cs",
+              "RelativeToolTip": "TechStoreInventory\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T14:33:57.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TechStoreInventory\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\appsettings.Development.json",
+              "RelativeToolTip": "TechStoreInventory\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T14:16:21.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "TechStoreInventory\\Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "TechStoreInventory\\Data\\InventoryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:34:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "TechStoreInventory\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\Models\\Products.cs",
+              "RelativeToolTip": "TechStoreInventory\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:22:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechStoreInventory.csproj",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\TechStoreInventory.csproj",
+              "RelativeDocumentMoniker": "TechStoreInventory\\TechStoreInventory.csproj",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechStoreInventory\\TechStoreInventory\\TechStoreInventory.csproj",
+              "RelativeToolTip": "TechStoreInventory\\TechStoreInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-07T16:29:48.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

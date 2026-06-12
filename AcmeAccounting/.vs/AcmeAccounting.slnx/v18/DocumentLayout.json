@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\AcmeAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{033819F5-E20D-F8A1-CB2C-5803FAC26AC8}|AcmeAccounting\\AcmeAccounting.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\acmeaccounting\\acmeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033819F5-E20D-F8A1-CB2C-5803FAC26AC8}|AcmeAccounting\\AcmeAccounting.csproj|solutionrelative:acmeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\AcmeAccounting\\AcmeAccounting\\Program.cs",
+              "RelativeDocumentMoniker": "AcmeAccounting\\Program.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\AcmeAccounting\\AcmeAccounting\\Program.cs",
+              "RelativeToolTip": "AcmeAccounting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T12:00:37.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

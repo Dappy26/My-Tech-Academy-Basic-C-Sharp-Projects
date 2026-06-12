@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\techacadstudentsmvc\\techacadstudentsmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0323F193-C1A0-48B4-9C84-59BF454BDA71}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T20:00:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T19:48:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:32:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T13:51:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T13:38:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:11:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T12:59:18.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T12:47:34.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

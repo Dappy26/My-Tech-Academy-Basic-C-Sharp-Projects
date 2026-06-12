@@ -1,0 +1,98 @@
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\appsettings.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.staticwebassets.runtime.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.staticwebassets.endpoints.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.exe
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.deps.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.runtimeconfig.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.dll
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\bin\Debug\net10.0\DateTime.Now property.pdb
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.AssemblyInfoInputs.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.AssemblyInfo.cs
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.csproj.CoreCompileInputs.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.RazorAssemblyInfo.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.RazorAssemblyInfo.cs
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\scopedcss\bundle\DateTime.Now property.styles.css
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\scopedcss\projectbundle\DateTime.Now property.bundle.scp.css
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\d6h3nw6sb2-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\uibwv2w1gk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\hx0h1188nt-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\26jpjvc50p-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\wh72j9u3zj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\5ubna55ene-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ccj009ilzb-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ias89eo4uh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\vnzlgugwq5-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\8qnspwpthk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\0ibx1oncgx-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ddciivzrx0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\aabi2x36hh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\3jq5wlenzg-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\tuqrdt87d7-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\qwc6boqsj5-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\colfbrc9he-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\jx71zh4cou-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\tv4c3pe706-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ef6igulhk0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\e1glbxe31g-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\5jrgsdvq3t-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\t9xou14680-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ofc1x0sh64-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\2fprcvzg5l-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\hujj4qi6s9-{0}-06098lyss8-06098lyss8.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\dfy9nn8q05-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\svqxug92wu-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\23weqhzyjx-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\jyz52bf2lu-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\a7ap5h5gey-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\0hl5zvkwa9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\k92jbvjaos-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\5vn3icno7u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\6mzsgnzt2b-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ra116fyqpy-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\vx7onmknq3-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\dit8knwd6o-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\b8f3bofjqb-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\fal6cvgozm-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\tcntsp021l-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\j1cpvjb1lb-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\cte1n72lrj-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\tumxm4r5ck-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\96aj07zq1j-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\7e3632ozaq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\jqyyuj7r8c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\q4neuqecav-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\scilbwxnsn-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\pxew80d0mn-{0}-356vix0kms-356vix0kms.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ap4mjf0ido-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\yua45e580j-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\fgtaxctc8a-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\wrwuiis180-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\0myyxb7865-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\bsq8riyg0n-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\5y7vs3m2ql-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\jwqx5d2tzu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\zfjs8pfhj4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\5dzhjz1ibd-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\afmfbjni2w-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\ay33riskyp-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\mmypxapw7x-{0}-p7cjegikhh-p7cjegikhh.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\compressed\0kdos7puuc-{0}-p7cjegikhh-p7cjegikhh.gz
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.dll
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\refint\DateTime.Now property.dll
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.pdb
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\DateTime.Now property.genruntimeconfig.cache
+C:\Users\makin\OneDrive\Desktop\Basic_C#_Programs\DateTime.Now property\DateTime.Now property\obj\Debug\net10.0\ref\DateTime.Now property.dll

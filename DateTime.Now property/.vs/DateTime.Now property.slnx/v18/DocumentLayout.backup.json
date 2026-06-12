@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\datetime.now property\\datetime.now property\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|solutionrelative:datetime.now property\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\datetime.now property\\datetime.now property\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|solutionrelative:datetime.now property\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\datetime.now property\\datetime.now property\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|solutionrelative:datetime.now property\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\datetime.now property\\datetime.now property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|solutionrelative:datetime.now property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|c:\\users\\makin\\onedrive\\desktop\\basic_c#_programs\\datetime.now property\\datetime.now property\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D1E82E7-2886-40E2-8388-31D5447BABA8}|DateTime.Now property\\DateTime.Now property.csproj|solutionrelative:datetime.now property\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DateTime.Now property\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "DateTime.Now property\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T13:56:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DateTime.Now property\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "DateTime.Now property\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T13:48:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\appsettings.json",
+              "RelativeDocumentMoniker": "DateTime.Now property\\appsettings.json",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\appsettings.json",
+              "RelativeToolTip": "DateTime.Now property\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T13:38:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Program.cs",
+              "RelativeDocumentMoniker": "DateTime.Now property\\Program.cs",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Program.cs",
+              "RelativeToolTip": "DateTime.Now property\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T13:37:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DateTime.Now property\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\makin\\OneDrive\\Desktop\\Basic_C#_Programs\\DateTime.Now property\\DateTime.Now property\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DateTime.Now property\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T13:32:40.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
